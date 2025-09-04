@@ -1,3 +1,4 @@
+```mermaid
 graph TD
       subgraph "1️⃣ 키워드 생성 단계"
           A[서비스 시작] --> B[KeywordGenerationService]
